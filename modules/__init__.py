@@ -1,0 +1,1 @@
+from modules.notificacoes import tocar_alerta, log_evento

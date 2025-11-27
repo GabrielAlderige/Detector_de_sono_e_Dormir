@@ -1,0 +1,69 @@
+# ===============================
+#   AMBIENTE VIRTUAL
+# ===============================
+venv/
+.env/
+.venv/
+
+# ===============================
+#   CACHE E ARQUIVOS TEMPORÁRIOS
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+Thumbs.db
+
+# ===============================
+#   LOGS, EXPORTS E CSVs
+# ===============================
+logs/
+*.log
+*.csv
+output/
+captures/
+recordings/
+
+# ===============================
+#   CONFIGURAÇÕES SENSÍVEIS
+# ===============================
+configs/config.json
+*.ini
+*.cfg
+
+# ===============================
+#   PESOS E MODELOS IA
+# ===============================
+*.pt
+*.onnx
+*.engine
+models/
+weights/
+
+# ===============================
+#   ÁUDIOS DE ALERTA
+# ===============================
+alerts/
+*.mp3
+*.wav
+*.ogg
+
+# ===============================
+#   DEPENDÊNCIAS DE IDE / EDITOR
+# ===============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===============================
+#   NOTEBOOKS
+# ===============================
+*.ipynb_checkpoints
+
+# ===============================
+#   BUILD / DIST
+# ===============================
+dist/
+build/
