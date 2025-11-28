@@ -25,7 +25,7 @@ Situação crítica → olhos fechados por muito tempo
 
 📦 Tecnologias Usadas
 
-Python 3.9+
+Python 3.11
 
 OpenCV
 
